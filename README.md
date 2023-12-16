@@ -1,5 +1,5 @@
 # Java Advanced University Course First Project
-This repository contains a project developed as part of an advanced Java course at the University. The project showcases advanced Java programming concepts, demonstrating proficiency in different topics.
+This repository contains projects developed as part of an advanced Java course at the University. The projects showcase advanced Java programming concepts, demonstrating proficiency in different topics.
 
 ## q1 folder contains a Console Guessing Letters Game
 
