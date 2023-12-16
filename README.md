@@ -1,6 +1,9 @@
+This repository contains a project developed as part of an advanced Java course at the University. The project showcases advanced Java programming concepts, demonstrating proficiency in different topics.
+
+
 # q1 folder contains a Console Guessing Letters Game
 
-This Java console application implements a guessing game where the player tries to guess letters of a word.
+This Java console application implements a guessing game where the player tries to guess the letters of a word.
 
 **Run the Application:**
    - Execute the `run.bat` file to run the console application.
